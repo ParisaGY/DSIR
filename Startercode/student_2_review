@@ -1,0 +1,10 @@
+positive:
+Clean and easy to follow, comment are understandable. Everything works well. Thanks!
+
+negative: You import a library (numpy) that you did not use it
+
+suggestion:
+define which python version you are using. Some libraries are not working in python 2.7
+I suggest using spyder to do programming in the Python language because on the left bar it shows orange triangle
+and give you some information of the error or waring incase you have any.
+ 

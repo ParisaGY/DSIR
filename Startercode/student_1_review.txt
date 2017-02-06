@@ -1,0 +1,16 @@
+
+positive:
+Clean and easy to follow.
+Comment are understandable.
+
+
+negative:
+You imported some library that you did not use them such as numpy and train_test_split
+Line 20 the name of variable is different from the name of variable used in line 16.
+if you want to use cross validation techniques you need to choose cv > 1. CV=1 does not help.
+
+suggestion:
+Define which python version you are using. some libraries are not working in python 2.7
+I suggest using spyder to do programming in the Python language because on the left bar it shows orange triangle
+and give you some information of the error or waring incase you have any.
+It is better to import all the library you want to use on top
